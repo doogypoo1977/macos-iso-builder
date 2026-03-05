@@ -107,4 +107,5 @@ Apple for macOS and their update servers, [Mavericks Forever](https://mavericksf
 
 This tool downloads macOS images directly from Apple's official servers. Users are responsible for complying with [Apple's Software License Agreement](https://www.apple.com/legal/sla/). macOS is a trademark of Apple Inc.
 
+
 Licensed under GPLv3.
